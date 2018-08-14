@@ -1,6 +1,49 @@
-# Brain-Computer-Interface
+# Brain Computer Interface
 Research Brain Waves to Text in Brain Computer Interface 
 
+## Introduction
+Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý camera ghi lại hình ảnh ở trước mặt người sử dụng và chuyển chúng thành tín hiệu điện. Sau đó tín hiệu điện truyền từ camera tới dãy điện cực thu thập thập thông tin được cấy vào mắt người dùng. Dãy điện cực chuyển đổi tín hiệu điện thành tín hiệu hình ảnh rồi truyền chúng tới dây thần kinh thị giác và não. Nhờ đó các người mù thấy các tín hiệu hay hình ảnh dưới dạng chớp sáng, các hình ảnh chớp sảng và những khối hình mờ. Nhưng rồi lại đặt câu hỏi, liệu sóng não và điện có mối liên hệ như thế nào trong cuộc sống. Khi điện được Thales phát hiện cách đây 600 năm TCN từ hổ phách thì nó với sóng não cùng các con số 0 1 trong khoa học máy tính có liên quan gì? Nhưng thực ra máy tính lưu trữ dữ liệu dưới dạng các loạt điện tích. Thông thường một 1 (on) biểu thị cho 5 volt, một 0 (off) biểu thị cho 0.5 volt.
+     
+  1|0|0|0|1|0|1|1
+  --|--|--|--|--|--|--|--
+  on|off|off|off|on|off|on|on   
+  
+  Vậy sóng não là gì? Được sinh ra và phân loại như thế nào? 
+  
+  Gốc rễ của tất cả những suy nghĩ, cảm xúc và hành vi của chúng ta là sự giao tiếp giữa các tế bào thần kinh trong não. Sóng não được tạo ra bởi các xung điện đồng bộ từ khối tế bào thần kinh giao tiếp với nhau.
+    
+  Hình dung sóng não như là các nốt nhạc - sóng tần số thấp giống như một nhịp trống thâm nhập sâu, trong khi sóng não tần số cao hơn giống như một cây sáo cao cấp tinh tế. Giống như một bản giao hưởng, các tần số cao hơn và thấp hơn liên kết và mạch lạc với nhau thông qua giai điệu.
+  
+  Sóng não được phát hiện bằng các cảm biến đặt trên da đầu. Chúng được chia thành các băng thông để mô tả các chức năng của chúng, nhưng tốt nhất suy nghĩ như là phổ liên tục của ý thức; từ chậm, nhanh, tinh tế và phức tạp.
+  
+   Sóng não của chúng ta thay đổi theo những gì chúng ta đang làm và cảm nhận. Khi sóng não tần số chậm, chúng ta có thể đang mệt mỏi, chậm chạp, lười biếng hoặc mơ mộng. Các tần số cao hơn, có thể chúng ta đang căng thẳng, hoặc siêu cảnh giác.
+   Trong thực tế mọi thứ phức tạp hơn nhiều, và sóng não phản ánh các khía cạnh khác nhau khi chúng xuất hiện ở các vị trí khác nhau trong não. 
+   
+   Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh. Có 6 loại sóng não:
+   + INFRA-LOW (<.5HZ) 
+   ![]()
+   + DELTA WAVES (.5 TO 3 HZ)
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
+     
+   + THETA WAVES (3 TO 8 HZ)
+
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
+
+   + ![](ALPHA WAVES (8 TO 12 HZ)
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
+   
+   + BETA WAVES (12 TO 38 HZ)
+     
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
+     
+   + GAMMA WAVES (38 TO 42 HZ): Tần số nhanh nhất trong sóng não
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
+     
+## Materials and Methods
+### __
 ## Tools for Electrocorticography Analysis:
 
 1. [Software](#Software)
