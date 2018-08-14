@@ -21,7 +21,7 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
    
    Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh. Có 6 loại sóng não:
    + INFRA-LOW (<.5HZ) 
-   ![]()
+     
    + DELTA WAVES (.5 TO 3 HZ)
    
      ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
@@ -30,7 +30,7 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
 
      ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
 
-   + ![](ALPHA WAVES (8 TO 12 HZ)
+   + ALPHA WAVES (8 TO 12 HZ)
    
      ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
    
