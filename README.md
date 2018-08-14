@@ -19,7 +19,29 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
    Sóng não của chúng ta thay đổi theo những gì chúng ta đang làm và cảm nhận. Khi sóng não tần số chậm, chúng ta có thể đang mệt mỏi, chậm chạp, lười biếng hoặc mơ mộng. Các tần số cao hơn, có thể chúng ta đang căng thẳng, hoặc siêu cảnh giác.
    Trong thực tế mọi thứ phức tạp hơn nhiều, và sóng não phản ánh các khía cạnh khác nhau khi chúng xuất hiện ở các vị trí khác nhau trong não. 
    
-   Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh.
+   Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh. Có 6 loại sóng não:
+   + INFRA-LOW (<.5HZ) 
+   ![]()
+   + DELTA WAVES (.5 TO 3 HZ)
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
+     
+   + THETA WAVES (3 TO 8 HZ)
+
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
+
+   + ![](ALPHA WAVES (8 TO 12 HZ)
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
+   
+   + BETA WAVES (12 TO 38 HZ)
+     
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
+     
+   + GAMMA WAVES (38 TO 42 HZ): Tần số nhanh nhất trong sóng não
+   
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
+     
 ## Materials and Methods
 ### __
 ## Tools for Electrocorticography Analysis:
