@@ -11,8 +11,15 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
   Vậy sóng não là gì? Được sinh ra và phân loại như thế nào? 
   
   Gốc rễ của tất cả những suy nghĩ, cảm xúc và hành vi của chúng ta là sự giao tiếp giữa các tế bào thần kinh trong não. Sóng não được tạo ra bởi các xung điện đồng bộ từ khối tế bào thần kinh giao tiếp với nhau.
-      
-  Sóng não được phát hiện bằng các cảm biến đặt trên da đầu. Chúng được chia thành các băng thông để mô tả các chức năng của chúng, nhưng tốt nhất suy nghĩ như là phổ liên tục của ý thức; từ chậm, to và từ nhanh, tinh tế và phức tạp
+    
+  Hình dung sóng não như là các nốt nhạc - sóng tần số thấp giống như một nhịp trống thâm nhập sâu, trong khi sóng não tần số cao hơn giống như một cây sáo cao cấp tinh tế. Giống như một bản giao hưởng, các tần số cao hơn và thấp hơn liên kết và mạch lạc với nhau thông qua giai điệu.
+  
+  Sóng não được phát hiện bằng các cảm biến đặt trên da đầu. Chúng được chia thành các băng thông để mô tả các chức năng của chúng, nhưng tốt nhất suy nghĩ như là phổ liên tục của ý thức; từ chậm, nhanh, tinh tế và phức tạp.
+  
+   Sóng não của chúng ta thay đổi theo những gì chúng ta đang làm và cảm nhận. Khi sóng não tần số chậm, chúng ta có thể đang mệt mỏi, chậm chạp, lười biếng hoặc mơ mộng. Các tần số cao hơn, có thể chúng ta đang căng thẳng, hoặc siêu cảnh giác.
+   Trong thực tế mọi thứ phức tạp hơn nhiều, và sóng não phản ánh các khía cạnh khác nhau khi chúng xuất hiện ở các vị trí khác nhau trong não. 
+   
+   Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh.
 ## Materials and Methods
 ### __
 ## Tools for Electrocorticography Analysis:
