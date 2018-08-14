@@ -28,7 +28,7 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
    
      Sóng não Delta chậm, sóng lớn (tần số thấp và thâm nhập sâu, giống như nhịp trống). Chúng được tạo ra trong lúc thiền sâu nhất và giấc ngủ không mộng. Chữa bệnh và phục hồi sức khỏe trong trạng thái này, và đó là lý do tại sao giấc ngủ phục hồi sâu là rất cần thiết cho quá trình chữa bệnh.
    
-   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
      
    + THETA WAVES (3 TO 8 HZ)
 
@@ -36,13 +36,13 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
 
      Trong theta chúng ta đang ở trong giấc mơ; hình ảnh sống động, trực giác và thông tin ngoài nhận thức bình thường của chúng ta. Đó là nơi chúng ta giữ những nỗi sợ hãi, lịch sử rắc rối và những cơn ác mộng.
 
-   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
 
    + ALPHA WAVES (8 TO 12 HZ)
    
      Sóng não Alpha chủ yếu xảy ra trong những suy nghĩ lặng lẽ chảy, và trong một số trạng thái thiền định. Alpha là "sức mạnh của hiện tại", đang ở đây, trong hiện tại. Alpha là trạng thái nghỉ ngơi của não. Sóng Alpha hỗ trợ sự phối hợp tinh thần tổng thể, sự bình tĩnh, sự tỉnh táo, sự tích hợp và học tập về tâm trí / cơ thể.
  
-   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
    
    + BETA WAVES (12 TO 38 HZ)
      
@@ -52,7 +52,7 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
      + Beta (Beta2, 15-22Hz) là mức độ tương tác cao hoặc tích cực tìm ra điều gì đó. 
      + Hi-Beta (Beta3, 22-38Hz) là tư tưởng rất phức tạp, tích hợp trải nghiệm mới, sự lo lắng cao hoặc sự phấn khích. Liên tục xử lý tần số cao không phải là một cách rất hiệu quả để chạy bộ não, vì nó mất một lượng lớn năng lượng.
 
-   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
      
    + GAMMA WAVES (38 TO 42 HZ): Tần số nhanh nhất trong sóng não
    
@@ -60,7 +60,7 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
 
      Gamma cao hơn tần số chạy qua hệ thần kinh, vì vậy nó được tạo ra như thế nào vẫn còn là một bí ẩn. Đó là suy đoán rằng nhịp điệu gamma điều chỉnh nhận thức và ý thức, và rằng một sự hiện diện lớn hơn của gamma liên quan đến ý thức mở rộng và sự xuất hiện tâm linh.
 
-   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
+     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
      
 ## Materials and Methods
 ### __
