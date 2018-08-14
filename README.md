@@ -22,25 +22,45 @@ Lấy cảm hứng từ đôi mắt thần cho người mù với nguyên lý ca
    Tốc độ sóng não được đo bằng Hertz (là chu kỳ mỗi giây) và chúng được chia thành các dải các sóng chậm, trung bình và nhanh. Có 6 loại sóng não:
    + INFRA-LOW (<.5HZ) 
      
+     Là sóng não thấp, được cho là xung nhịp cơ bản từ vỏ não. Rất ít thông tin về sóng não thấp, làm nền tảng cho các chức năng não cao hơn. Rất ít thông tin về sóng não thấp. Bản chất của sóng não thấp rất chậm làm cho nó khó phát hiện và đo lường chính xác, vì vậy ít nghiên cứu được thực hiện. Sự xuất hiện của chúng đóng vai trò khá quan trọng trong thời gian hoạt động của não và chức năng liên kết
+ 
    + DELTA WAVES (.5 TO 3 HZ)
    
-     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
+     Sóng não Delta chậm, sóng lớn (tần số thấp và thâm nhập sâu, giống như nhịp trống). Chúng được tạo ra trong lúc thiền sâu nhất và giấc ngủ không mộng. Chữa bệnh và phục hồi sức khỏe trong trạng thái này, và đó là lý do tại sao giấc ngủ phục hồi sâu là rất cần thiết cho quá trình chữa bệnh.
+   
+   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-1Hz_1.gif)
      
    + THETA WAVES (3 TO 8 HZ)
 
-     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
+     Sóng não Theta xảy ra thường xuyên nhất trong giấc ngủ nhưng cũng xảy ra nhiều khi thiền định sâu. Theta là cửa ngõ của chúng ta để học tập, trí nhớ và trực giác. Trong theta, các giác quan của chúng ta bị rút khỏi thế giới bên ngoài và tập trung vào các tín hiệu có nguồn gốc từ bên trong. Đó là trạng thái chạng vạng mà chúng ta thường chỉ trải qua một cách thoáng qua khi chúng ta thức dậy hoặc trôi dạt vào giấc ngủ.
+
+     Trong theta chúng ta đang ở trong giấc mơ; hình ảnh sống động, trực giác và thông tin ngoài nhận thức bình thường của chúng ta. Đó là nơi chúng ta giữ những nỗi sợ hãi, lịch sử rắc rối và những cơn ác mộng.
+
+   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-5Hz_1.gif)
 
    + ALPHA WAVES (8 TO 12 HZ)
    
-     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
+     Sóng não Alpha chủ yếu xảy ra trong những suy nghĩ lặng lẽ chảy, và trong một số trạng thái thiền định. Alpha là "sức mạnh của hiện tại", đang ở đây, trong hiện tại. Alpha là trạng thái nghỉ ngơi của não. Sóng Alpha hỗ trợ sự phối hợp tinh thần tổng thể, sự bình tĩnh, sự tỉnh táo, sự tích hợp và học tập về tâm trí / cơ thể.
+ 
+   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-10Hz_1.gif)
    
    + BETA WAVES (12 TO 38 HZ)
      
-     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
+     Sóng não beta thống trị trạng thái thức tỉnh bình thường của chúng ta khi sự chú ý hướng tới các nhiệm vụ nhận thức và thế giới bên ngoài. Beta là hoạt động nhanh, hiện diện khi chúng tôi tỉnh táo, chu đáo, tham gia vào việc giải quyết vấn đề, phán đoán, ra quyết định hoặc tập trung vào hoạt động tâm thần.
+     Sóng não beta được chia thành ba dải:
+     + Lo-Beta (Beta1, 12-15Hz) khi ta đang suy ngẫm. 
+     + Beta (Beta2, 15-22Hz) là mức độ tương tác cao hoặc tích cực tìm ra điều gì đó. 
+     + Hi-Beta (Beta3, 22-38Hz) là tư tưởng rất phức tạp, tích hợp trải nghiệm mới, sự lo lắng cao hoặc sự phấn khích. Liên tục xử lý tần số cao không phải là một cách rất hiệu quả để chạy bộ não, vì nó mất một lượng lớn năng lượng.
+
+   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-20Hz_1.gif)
      
    + GAMMA WAVES (38 TO 42 HZ): Tần số nhanh nhất trong sóng não
    
-     ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
+     Sóng não Gamma là sóng não nhanh nhất (tần số cao, như sáo), và liên quan đến việc xử lý đồng thời thông tin từ các vùng não khác nhau. Sóng não Gamma truyền thông tin nhanh chóng và lặng lẽ. Tinh tế nhất của tần số sóng não, tâm trí phải im lặng để truy cập gamma.
+
+     Gamma cao hơn tần số chạy qua hệ thần kinh, vì vậy nó được tạo ra như thế nào vẫn còn là một bí ẩn. Đó là suy đoán rằng nhịp điệu gamma điều chỉnh nhận thức và ý thức, và rằng một sự hiện diện lớn hơn của gamma liên quan đến ý thức mở rộng và sự xuất hiện tâm linh.
+
+   ![](http://brainworksneurotherapy.com/sites/default/files/content-images/Wave-40Hz_1.gif)
      
 ## Materials and Methods
 ### __
